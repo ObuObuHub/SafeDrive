@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React Native
+.expo/
+dist/
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+
+# Android
+*.apk
+*.aab
+*.hprof
+/android/app/debug
+/android/app/release
+/android/.gradle
+/android/captures
+/android/local.properties
+
+# iOS
+*.ipa
+*.xcuserstate
+ios/Pods/
+ios/Podfile.lock
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+*.log
+.cache/
+dist/
+build/
